@@ -1,0 +1,5 @@
+## Archivo generado por Android Studio
+## INSTRUCCIÓN: Copia este archivo como local.properties y cambia la ruta
+sdk.dir=/Users/TU_USUARIO/Library/Android/sdk
+## En Windows usa: sdk.dir=C\:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk
+## En Linux usa: sdk.dir=/home/TU_USUARIO/Android/Sdk
